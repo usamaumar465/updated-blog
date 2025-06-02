@@ -7,7 +7,7 @@ const Header = ({ user, onLogout }) => {
     <header className="header">
       <div className="header-content">
         <div className="logo">
-          <Link to="/">Full-Stack App</Link>
+          <Link to="/">Full-Stack Application</Link>
         </div>
         <nav className="nav">
           <Link to="/" className="nav-link">Home</Link>
